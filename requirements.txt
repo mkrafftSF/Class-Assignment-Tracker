@@ -115,7 +115,7 @@ intervaltree @ file:///Users/ktietz/demo/mc3/conda-bld/intervaltree_163051188966
 ipykernel @ file:///C:/b/abs_c2u94kxcy6/croot/ipykernel_1705933907920/work
 ipython @ file:///C:/b/abs_53it5seiim/croot/ipython_1726064251844/work
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
-ipywidgets @ file:///C:/b/abs_4fgmepzmbu/croot/ipywidgets_1710961556913/work
+ipywidgets==8.1.5
 isoduration==20.11.0
 isort @ file:///C:/b/abs_50iy840e4z/croot/isort_1718291849200/work
 itemadapter @ file:///tmp/build/80754af9/itemadapter_1626442940632/work
@@ -142,8 +142,8 @@ jupyter_server @ file:///C:/b/abs_9a333nh6yu/croot/jupyter_server_1718827092223/
 jupyter_server_terminals @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/jupyter_server_terminals_1701798041635/work
 jupyterlab @ file:///C:/b/abs_88qjk9lo2r/croot/jupyterlab_1725895228333/work
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
-jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
 jupyterlab_server @ file:///C:/b/abs_fdi5r_tpjc/croot/jupyterlab_server_1725865372811/work
+jupyterlab_widgets==3.0.13
 keyring @ file:///C:/b/abs_78uoj9sw00/croot/keyring_1709632550180/work
 kiwisolver @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/kiwisolver_1699476425777/work
 lazy-object-proxy @ file:///C:/b/abs_19td_nzb6n/croot/lazy-object-proxy_1712908735070/work
@@ -193,7 +193,7 @@ numpydoc @ file:///C:/b/abs_bbspp5l8vu/croot/numpydoc_1718279185573/work
 openpyxl @ file:///C:/b/abs_0e6ca21lac/croot/openpyxl_1721752965859/work
 overrides @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/overrides_1701806336503/work
 packaging @ file:///C:/b/abs_c3vlh0z4jw/croot/packaging_1720101866539/work
-pandas @ file:///C:/b/abs_9aotnvvz16/croot/pandas_1718308978393/work/dist/pandas-2.2.2-cp312-cp312-win_amd64.whl#sha256=93959056e02e9855025011adb18394296a58d49e72b9342733b7693a5267c790
+pandas==2.2.3
 pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
 panel @ file:///C:/b/abs_fas2lxv_bs/croot/panel_1728066386547/work
 param @ file:///C:/b/abs_b4yato0oux/croot/param_1719347953072/work
@@ -356,7 +356,7 @@ websocket-client @ file:///C:/b/abs_5dmnxxoci9/croot/websocket-client_1715878351
 Werkzeug @ file:///C:/b/abs_8bittcw9jr/croot/werkzeug_1716533366070/work
 whatthepatch @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/whatthepatch_1699497134590/work
 wheel==0.44.0
-widgetsnbextension @ file:///C:/b/abs_538o2crz7f/croot/widgetsnbextension_1710960099872/work
+widgetsnbextension==4.0.13
 win-inet-pton @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/win_inet_pton_1699472992992/work
 wrapt @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/wrapt_1699480231633/work
 xarray @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/xarray_1699480274069/work
