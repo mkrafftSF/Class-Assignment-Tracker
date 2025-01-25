@@ -1,0 +1,11 @@
+Dependency Management Write-Up
+Setup Process:
+To manage dependencies for the Class-Assignment-Tracker project, we created a virtual environment using Python's venv module. This isolated our project’s dependencies from the global Python installation, ensuring consistency across different development environments. We then created a requirements.txt file listing all necessary packages, including pandas, plotly, and ipywidgets, specifying their respective versions to prevent compatibility issues.
+Challenges Encountered:
+During the setup, we faced a version conflict between plotly and ipywidgets. Resolving this required updating both packages to compatible versions, which we achieved by consulting their documentation and testing installations within the virtual environment. Additionally, ensuring that all team members had identical environments was initially challenging, but the use of requirements.txt streamlined this process.
+Team Collaboration:
+Each team member was responsible for identifying and adding the necessary dependencies to requirements.txt. Pradeesh handled the setup of the virtual environment, while Annaka and Mike focused on documenting the dependencies and testing the installation process on their respective machines. This division of labor ensured that the setup was efficient and thorough.
+Benefits Observed:
+Implementing dependency management significantly enhanced our project's maintainability. By specifying exact package versions, we minimized the risk of future compatibility issues. Additionally, new team members can easily set up the project by simply cloning the repository and running pip install -r requirements.txt. This approach has improved our collaborative workflow, allowing us to focus more on development rather than environment configuration.
+
+
