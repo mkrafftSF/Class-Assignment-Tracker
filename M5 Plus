@@ -1,0 +1,6 @@
+Moving forward, I plan to:
+
+Incorporate CI/CD pipelines to automate testing with pytest.
+Write integration tests to validate end-to-end functionality.
+Continue adopting testing best practices, such as test-driven development (TDD), to streamline the development process.
+By prioritizing testing, I have not only improved the reliability of the current project but also laid the groundwork for scalable, maintainable development in future endeavors. This submission includes the commit links, a PDF with test result screenshots, and a detailed summary of my testing journey.
