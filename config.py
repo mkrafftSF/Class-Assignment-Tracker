@@ -1,3 +1,4 @@
+
 """
 This file configures the Flask app and sets up the database connection.
 """
