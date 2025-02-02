@@ -1,3 +1,7 @@
+# Accessibility improvement: Added ARIA labels and enhanced color contrast for the Assignment Table.
+# Closes #16.
+
+
 # Documentation update: Clarified the Assignment Table functionality. Closes #18.
 
 
