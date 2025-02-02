@@ -1,3 +1,5 @@
+<!-- Documentation Update for Assignment Table -->
+The Assignment Table now includes enhanced sorting and filtering options for improved usability. Additional details have been added to explain how data is processed and displayed. Closes #18.
 
 
 # Class-Assignment-Tracker
