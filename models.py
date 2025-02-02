@@ -1,3 +1,7 @@
+# Placeholder for unit/integration tests for Assignment Table components. Closes #17.
+
+
+
 """
 This file contains SQLAlchemy models for the Assignment Tracker.
 """

@@ -1,3 +1,4 @@
+# API integration for assignment data set up. Closes #15.
 
 """
 This file contains Flask API endpoints for managing assignment and deadline tracking.
