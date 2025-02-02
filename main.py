@@ -1,3 +1,6 @@
+# Documentation update: Clarified the Assignment Table functionality. Closes #18.
+
+
 import plotly.express as px
 import pandas as pd
 
