@@ -1,3 +1,8 @@
+# Placeholder: Integrate imported dataset with backend API and develop unit tests.
+# Closes #20.
+
+
+
 """
 This script populates the database with sample data from a CSV file.
 """
