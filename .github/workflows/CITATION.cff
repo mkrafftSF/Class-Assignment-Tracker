@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "Assignment and Deadline Tracker"
+version: "v1.0"
+doi: "YOUR_ZENODO_DOI_HERE"  # Replace with your Zenodo DOI once available
+authors:
+  - family-names: "Krafft"
+    given-names: "Michael A."
+repository: "https://www.github.com/mkrafftSF/Class-Assignment-Tracker"
+license: "Custom License"  # or use an SPDX identifier if applicable
