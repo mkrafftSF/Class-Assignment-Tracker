@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<!-- Documentation Update for Assignment Table -->
+The Assignment Table now includes enhanced sorting and filtering options for improved usability. Additional details have been added to explain how data is processed and displayed. Closes #18.
+
+>>>>>>> eecba84cf4f8d372c389c01eae78fe86e7e63a57
 
 # Class-Assignment-Tracker
 A Python-based tool for automating and visualizing class assignment tracking using Plotly, Pandas, and IPywidgets

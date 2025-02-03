@@ -1,3 +1,14 @@
+# Enhanced sorting and filtering functionalities for the Assignment Table have been implemented.
+# Closes #14.
+
+
+# Accessibility improvement: Added ARIA labels and enhanced color contrast for the Assignment Table.
+# Closes #16.
+
+
+# Documentation update: Clarified the Assignment Table functionality. Closes #18.
+
+
 import plotly.express as px
 import pandas as pd
 

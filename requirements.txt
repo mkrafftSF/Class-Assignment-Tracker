@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 appdirs==1.4.4
 atomicwrites==1.4.0
 fqdn==1.5.1
@@ -28,3 +29,14 @@ matplotlib==3.10.0
 
 numpy==1.26.4
 
+=======
+flask>=3.0.3
+sqlalchemy>=2.0.34
+marshmallow>=3.26.0
+
+flask
+sqlalchemy
+marshmallow
+matplotlib
+pandas
+>>>>>>> eecba84cf4f8d372c389c01eae78fe86e7e63a57
