@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # Optional: include if available
+title: "Class-Assignment-Tracker"
+version: "1.0"
+doi: "10.5281/zenodo.xxxxxxx"  # Replace with your Zenodo DOI
+date-released: "2025-02-03"
+url: "https://github.com/mkrafftSF/Class-Assignment-Tracker"
