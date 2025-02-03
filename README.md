@@ -1,3 +1,4 @@
+
 # Class-Assignment-Tracker
 A Python-based tool for automating and visualizing class assignment tracking using Plotly, Pandas, and IPywidgets
 # Class Assignment Tracker Automation Tool
@@ -73,3 +74,14 @@ Please let me know if you have any questions or additional feedback.
 Best regards,
 
 Dr. Michael A. Krafft
+
+# Assignment and Deadline Tracker
+
+## Purpose
+A project to track assignments, manage deadlines, and visualize progress interactively.
+
+## Installation
+1. Clone the repository.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
